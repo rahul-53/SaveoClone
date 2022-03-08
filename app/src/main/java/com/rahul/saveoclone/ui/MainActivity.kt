@@ -1,7 +1,8 @@
-package com.rahul.saveoclone
+package com.rahul.saveoclone.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.rahul.saveoclone.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
