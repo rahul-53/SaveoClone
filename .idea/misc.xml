@@ -4,6 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/SaveoClone/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/SaveoClone/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/SaveoClone/app/src/main/res/layout/fragment_offers.xml" value="0.1953125" />
+        <entry key="..\:/SaveoClone/app/src/main/res/layout/fragment_store.xml" value="0.209375" />
       </map>
     </option>
   </component>
